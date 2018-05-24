@@ -29,7 +29,7 @@ Recipes to give to your computer to “cook” up some awesome things for you on
 * Download the tutorial files on this page within the zip file  
 
 #### Download the files for this class:
-1. Go to https://github.com/GalvanizeOpenSource/Learn-To-Code-HTML-CSS
+1. Go to [https://github.com/GalvanizeOpenSource/learn-to-code-html-css-v3](https://github.com/GalvanizeOpenSource/learn-to-code-html-css-v3)
 2. Click on the button on the right-hand side that says "Download ZIP"
 3. Go to your downloads folder and double click on the .zip file to unzip it
 4. IMPORTANT! Leave all the individual files in the downloaded folder (if you would like to move it out of the downloads folder move the entire folder, not individual items)
