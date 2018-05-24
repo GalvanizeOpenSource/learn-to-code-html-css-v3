@@ -244,4 +244,4 @@ Welcome to the cool kids club.
 
 You can email him at [sage.elliott@galvanize.com](mailto:age.elliott@galvanize.com) or tweet [@sagecodes](https://twitter.com/sagecodes) for any further questions.
 
-Material based on original [https://github.com/GalvanizeOpenSource/Learn-to-Code-HTML-CSS-v2](learn to code)
+Material based on original [Learn To Code](https://github.com/GalvanizeOpenSource/Learn-to-Code-HTML-CSS-v2)
