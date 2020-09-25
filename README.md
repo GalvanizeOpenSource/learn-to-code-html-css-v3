@@ -240,8 +240,8 @@ Welcome to the cool kids club.
 
 #### About the Instructor
 
-[Sage Elliott](https://www.linkedin.com/in/sageelliott/) is an evangelist for Galvanize based in Seattle. Previously he worked as a Software and hardware engineer for startup around Seattle WA and Melbourne Fl.
+[Zubair Desai](https://www.linkedin.com/in/zubair-desai-35623417/) is the lead instructor for Galvanize based in Austin.
 
-You can email him at [sage.elliott@galvanize.com](mailto:age.elliott@galvanize.com) or tweet [@sagecodes](https://twitter.com/sagecodes) for any further questions.
+You can email him at [zubair.desai@galvanize.com](mailto:zubair.desai@galvanize.com)
 
 Material based on original [Learn To Code](https://github.com/GalvanizeOpenSource/Learn-to-Code-HTML-CSS-v2)
